@@ -4,7 +4,7 @@
 
 We brew great ideas into digital excellence. Creative app studio & professional development consultants specializing in React Native mobile apps, Next.js web applications, and AI-powered business solutions.
 
-🌐 [sugarandcoffee.co.uk](https://sugarandcoffee.co.uk) | 📧 hello@sugarandcoffee.co.uk
+🌐 [sugarandcoffee.co.uk](https://sugarandcoffee.co.uk) | 📧 josh@sugarandcoffee.co.uk
 
 ---
 
@@ -111,7 +111,7 @@ Whether you need a mobile app, web application, AI integration, or technical con
 
 **Get in touch:**
 - 🌐 Website: [sugarandcoffee.co.uk](https://sugarandcoffee.co.uk)
-- 📧 Email: hello@sugarandcoffee.co.uk
+- 📧 Email: josh@sugarandcoffee.co.uk
 - 📱 Phone: +44 7453 748905
 
 **Office:**  
